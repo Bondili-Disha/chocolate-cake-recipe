@@ -1,2 +1,1 @@
-# chocolate-cake-recipe
-recipe of the chocolate cake 
+the recipe is about making an eggless chocoate cake .
